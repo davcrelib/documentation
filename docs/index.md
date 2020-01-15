@@ -1,8 +1,15 @@
 ## Documentación
 
-* El primer punto es el siguiente
+* Modificar documentación:
 
-> Esto es otro ejemplo
+- Antes de nada hemos de bajar los cambios (si los hubiera)
 
-> Example aaaaaaaaaabbbb
-> Example ooooooooobbbb
+> git pull origin gh-pages
+
+- Cuando modificamos la documentación:
+
+> git status
+>
+> git add (archivos modificados)
+>
+> git push origin gh-pages
