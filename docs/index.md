@@ -12,4 +12,6 @@
 >
 > git add (archivos modificados)
 >
+> git commit -am "change documentation"
+>
 > git push origin gh-pages
