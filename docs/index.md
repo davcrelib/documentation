@@ -15,3 +15,5 @@
 > git commit -am "change documentation"
 >
 > git push origin gh-pages
+
+Antes de hacer gh-deploy subimos los cambios.
